@@ -3,7 +3,7 @@
 This is the template alpine apache2 web server image of the Hacking-Lab CTF system
 
 ## Base
-* hackinglab/alpine-apache2:latest
+* hackinglab/alpine-base:latest
 
 ## Specifications
 * with s6 startup handling
